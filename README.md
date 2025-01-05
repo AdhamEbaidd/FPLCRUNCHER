@@ -1,5 +1,8 @@
 # FPL Cruncher: A Fantasy Premier League Analysis Tool
 
+![2025-01-0600-54-54-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0e8d8ab1-687d-45ca-827f-968c4d58bced)
+
+
 ## Overview
 The **FPL Cruncher** is a Python-based application designed to analyze and extract key statistics from Fantasy Premier League (FPL) data. Users can input their team ID, mini-league ID, and specific gameweek preferences to generate tailored insights. The tool dynamically creates an HTML file containing visualizations and statistics, providing an engaging and user-friendly way to explore FPL data.
 
